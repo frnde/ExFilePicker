@@ -3,3 +3,11 @@
 /ExFilePicker/gen
 /ExFilePickerSample/gen
 /ExFilePickerSample/bin
+/ExFilePicker/build
+.gradle
+/local.properties
+.idea
+.DS_Store
+*.iml
+*.orig
+.settings
